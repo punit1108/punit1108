@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 -->
 
-http://punit1108.github.io
+[http://itsyourpal.in](https://itsyourpal.in/)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=punit1108.punit1108)
